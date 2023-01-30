@@ -16,7 +16,7 @@
   - [Questions](#Questions)
   
   ## Link
-  [Live notesApp](https://shielded-earth-44279.herokuapp.com/notes)
+  [Live notesApp](https://shielded-earth-44279.herokuapp.com/)
   
   ## Screenshot
 
