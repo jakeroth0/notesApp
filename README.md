@@ -6,12 +6,21 @@
   This application uses Express.js to save and retrieve note data from a JSON file.
 
   ## Table of Contents
+  - [Link](#Link)
+  - [Screenshot](#Screenshot)
   - [Installation](#Installation)
   - [Usage](#Usage)
   - [License](#License)
   - [Contributing](#Contributing)
   - [Tests](#Tests)
   - [Questions](#Questions)
+  
+  ## Link
+  [Live notesApp](https://shielded-earth-44279.herokuapp.com/notes)
+  
+  ## Screenshot
+
+![Screen Shot](https://github.com/jakeroth0/notesApp/blob/e7f5dab005cc48c55a27460274489cdd4a778fc2/notesAppScreenShot.png)
   
   ## Installation
   To install necessary dependencies, run the following command:
